@@ -1,2 +1,5 @@
 name,Qty,icon,type,text
-Dodge,5,action,Minor,Damage you take is reduced by your LUCK until your next turn
+Dodge,3,upgrade,Minor,Attach this to your character for one turn.\n\nYou are Dodging.
+Ice Lance,3,action,Minor,Deal 3 cold damage to an enemy.
+Holy Blow,3,action,Major,Deal W+3 Holy damage to an adjacent enemy.
+Second Wind,5,action,Major,Target ally shuffles their graveyard into their library. gains 4 hp. and draws a card. Exhaust.
